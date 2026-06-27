@@ -1,0 +1,38 @@
+.page {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.page h1 {
+  margin-bottom: 8px;
+}
+
+/* การ์ดสำหรับโพสต์ */
+.post-card {
+  background: #2a2a2a;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 12px;
+  list-style: none;
+}
+
+.post-card a {
+  color: #646cff;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+.post-card a:hover {
+  text-decoration: underline;
+}
+
+.post-card p {
+  color: #bbb;
+  margin-top: 8px;
+}
+
+.status {
+  text-align: center;
+  padding: 40px;
+  color: #888;
+}
